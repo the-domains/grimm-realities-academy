@@ -1,0 +1,28 @@
+name: Grimm Realities Academy
+favicon: null
+layout_spectrum: 0.03652978828176856
+typography_spectrum: 0.7692013825289905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6059413712937385
+  lightness: 0.06665446958504617
+  saturation: 0.8732460821047425
+  rhythmicContrast: 0.6299926859792322
+purpose: []
